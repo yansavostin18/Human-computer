@@ -1,0 +1,5 @@
+{
+  "name": "Superhero Card Generator",
+  "description": "Generate unique superhero cards with names, backstories, powers, and AI-generated images based on your ideas.",
+  "requestFramePermissions": []
+}
